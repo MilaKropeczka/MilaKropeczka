@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello!
+Welcome on my GitHub page!
 
-<!--
-**MilaKropeczka/MilaKropeczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+-   I'm Paulina
+-   In 2019 I started my journey into the frontend development world
+-   I love to learn and my knowlege is growing every day
+-   I am ready for new challenges
 
-Here are some ideas to get you started:
+## Tools and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   HTML5/CSS3
+-   SASS/LESS
+-   JavaScript/TypeScript
+-   React.js
+-   GitHub
+-   Bootstrap
