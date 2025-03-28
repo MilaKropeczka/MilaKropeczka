@@ -1,10 +1,11 @@
 # TOOLS AND TECHNOLOGIES
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,bootstrap,tailwind,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,docker)](https://skillicons.dev)
 -   HTML5/CSS3
 -   SASS/LESS 
 -   JavaScript, TypeScript 
 -   React.js
 -   Redux
+-   Next.js
 -   Bootstrap, TailwindCSS
 -   Docker
 
