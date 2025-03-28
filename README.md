@@ -1,7 +1,3 @@
-## ABOUT ME
--   I'm Paulina
--   In 2019 I started my journey into the frontend development world
-
 ## TOOLS AND TECHNOLOGIES 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,bootstrap,tailwind,docker)](https://skillicons.dev)
 -   HTML5/CSS3
@@ -13,9 +9,9 @@
 -   Docker
 
 ## PROJECTS 
-### ![enter image description here](./Untitled.png) **ForHome - Online Shop** ![enter image description here](./Untitled.png)
--   [REPOSITORY FrostBite - Online Shop](https://github.com/MilaKropeczka/FrostBite/)
--   [LIVE FrostBite - Online Shop](https://milakropeczka.github.io/FrostBite/)
+### ![enter image description here](./Untitled.png) **FrostBite - Shop Online** ![enter image description here](./Untitled.png)
+-   [REPOSITORY FrostBite](https://github.com/MilaKropeczka/FrostBite/)
+-   [LIVE FrostBite](https://milakropeczka.github.io/FrostBite/)
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,tailwind,)](https://skillicons.dev)
 
