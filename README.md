@@ -1,6 +1,3 @@
-# Hello!
-Welcome on my GitHub page!
-
 ## ABOUT ME
 -   I'm Paulina
 -   In 2019 I started my journey into the frontend development world
