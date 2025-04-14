@@ -4,7 +4,7 @@
 -   SASS/LESS 
 -   JavaScript, TypeScript 
 -   React.js
--   Redux
+-   Redux, Zustand
 -   Next.js
 -   Bootstrap, TailwindCSS
 -   Docker
