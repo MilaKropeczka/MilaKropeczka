@@ -13,3 +13,8 @@
 -   [REPOSITORY FrostBite](https://github.com/MilaKropeczka/FrostBite/) or [LIVE FrostBite](https://milakropeczka.github.io/FrostBite/)
 
 ![enter image description here](./frostbite.png)
+
+## ![enter image description here](./Untitled.png) **Music Player** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
+-   [REPOSITORY FrostBite](https://github.com/MilaKropeczka/MusicPlayer/) or [LIVE FrostBite](https://milakropeczka.github.io/MusicPlayer/)
+
+![enter image description here](./musicplayer.png)
