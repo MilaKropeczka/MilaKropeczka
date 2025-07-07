@@ -18,3 +18,8 @@
 -   [REPOSITORY MusicPlayer](https://github.com/MilaKropeczka/MusicPlayer/) or [LIVE MusicPlayer](https://milakropeczka.github.io/MusicPlayer/)
 
 ![enter image description here](./musicplayer.png)
+
+## ![enter image description here](./Untitled.png) **Sungroup - Landing page** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
+-   [REPOSITORY Sungroup](https://github.com/MilaKropeczka/React-SunGroup/) or [LIVE MusicPlayer](https://milakropeczka.github.io/React-SunGroup/)
+
+![enter image description here](./sungroup.png)
