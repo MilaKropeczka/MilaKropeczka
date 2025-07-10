@@ -28,3 +28,11 @@
 -   [REPOSITORY Sungroup](https://github.com/MilaKropeczka/React-SunGroup/) or [LIVE Sungroup](https://milakropeczka.github.io/React-SunGroup/)
 
 ![enter image description here](./sungroup.png)
+
+## 📬 Get in touch!
+
+Questions, feedback, or collaboration? Reach me at:
+
+- Email: milakropeczka@gmail.com  
+- LinkedIn: [linkedin.com/in/paulina-gruszka](https://linkedin.com/in/paulina-gruszka-414931b5)
+  
