@@ -19,16 +19,6 @@
 
 ![enter image description here](./musicplayer.png)
 
-## ![enter image description here](./Untitled.png) **Booking - autor Twórca Stron** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
--   [REPOSITORY Booking](https://github.com/MilaKropeczka/Booking/) or [LIVE Booking](https://booking-b3073.web.app/)
-
-![enter image description here](./booking.png)
-
-## ![enter image description here](./Untitled.png) **Sungroup - Landing page** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
--   [REPOSITORY Sungroup](https://github.com/MilaKropeczka/React-SunGroup/) or [LIVE Sungroup](https://milakropeczka.github.io/React-SunGroup/)
-
-![enter image description here](./sungroup.png)
-
 ## 📬 Get in touch!
 
 Questions, feedback, or collaboration? Reach me at:
