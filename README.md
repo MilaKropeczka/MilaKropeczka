@@ -1,3 +1,5 @@
+LinkedIn: [linkedin.com/in/paulina-gruszka](https://linkedin.com/in/paulina-gruszka-414931b5)
+
 # TOOLS AND TECHNOLOGIES
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,docker)](https://skillicons.dev)
 -   HTML5/CSS3
